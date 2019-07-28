@@ -25,3 +25,11 @@
 [Writing a good mission statement in LinkedIn](https://medium.com/@chrisarmbruster/search-and-mission-statement-for-data-science-positions-c15383c6764a)
 
 [First jobs](https://towardsdatascience.com/becoming-a-data-scientist-when-dan-becker-pointed-out-i-had-it-all-wrong-86fb81397e8c)
+
+
+## Information from Medium about career preparation
+
+[Data science in AirBNB](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
+
+## Youtube channel with interview preparation
+[Linda Raynier](https://www.youtube.com/channel/UCXUyg1vYSupswhi0zNeD-5w/videos)
